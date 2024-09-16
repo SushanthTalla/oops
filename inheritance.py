@@ -9,3 +9,4 @@ class charan(sushanth):
 
 obj=charan()
 print(obj.data)   
+print(obj.data) 
